@@ -10,15 +10,7 @@ and for style add
 * you can chenge style  to your custom style
 
 Adding an element with class virtualKey, which is the parent element of the text...
-for Ex:
 
-<div class="virtualKey">
-    <input class="" type="text" id="input1" placeholder="وارد کنید">
-    <input class="" type="text" id="input2" placeholder="وارد کنید">
-<textarea></textarea>
-</div>
 
 To add a keyboard, create an element named keyboard wherever you want...
-for Ex:
-<div class="keyboard"></div>
 
